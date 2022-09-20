@@ -10,6 +10,4 @@
   name: 'buf breaking'
   entry: 'run-buf-breaking.sh'
   language: 'script'
-  files: '\.proto$'
-  pass_filenames: true
   description: 'Runs `buf breaking`'
